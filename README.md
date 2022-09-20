@@ -4,9 +4,9 @@
 
 > Projeto de conclusão da trilha de React.Js
 
-Projeto construido do ciclo formativo front-end da PretaLab/Olabi.
+Projeto construido no ciclo formativo front-end da PretaLab/Olabi.
 
-[🔗 Clique para acessar ] (https://projeto-final-pretalab-phi.vercel.app/contact)
+[🔗 Clique para acessar ] (https://projeto-final-pretalab-phi.vercel.app/)
 
 ## 🛠️ Tecnologias
 
