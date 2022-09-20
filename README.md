@@ -1,6 +1,6 @@
 # Mentoria - Quero Ser Dev
 
-![preview] (./.github/preview.png)
+![preview](https://user-images.githubusercontent.com/92055100/191356322-7b4f09de-fdb0-414b-b2a2-62f9eac75d25.png)
 
 > Projeto de conclusão da trilha de React.Js
 
